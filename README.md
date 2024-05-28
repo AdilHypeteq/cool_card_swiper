@@ -4,7 +4,7 @@ Design & Developed by [Prioxis Technologies](https://www.prioxis.com/)
 
 You can create cool swipe card list like this.
 
-![demo](demo.gif)
+![demo](https://github.com/AdilHypeteq/cool_card_swiper/assets/106724238/f0941065-2628-44f4-9c08-3cd49b254afe)
 
 ## Getting started
 

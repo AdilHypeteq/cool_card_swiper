@@ -87,8 +87,3 @@ class TransactionModel {
   TransactionModel(this.title, this.price, this.date, this.isSent);
 }
 ```
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.

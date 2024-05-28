@@ -2,6 +2,7 @@
 
 You can create cool swipe card list like this.
 
+[demo.webm](https://github.com/AdilHypeteq/cool_card_swiper/assets/106724238/f8d97053-df0b-46fb-a8dd-0798c25d3ab7)
 
 
 ## Getting started
